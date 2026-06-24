@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=AtCoder%20Solutions&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Contest-first%20algorithm%20archive&descAlignY=57&descSize=16" alt="AtCoder Solutions">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=16C7C1&center=true&vCenter=true&width=820&lines=One+contest.+Multiple+problems+to+learn+from.;Reading+statements+before+writing+code;Clean+C%2B%2B+%7C+Clear+reasoning+%7C+Contest-ready+trade-offs" alt="Repository philosophy">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=16C7C1&center=true&vCenter=true&width=820&lines=One+contest.+Multiple+problems+to+learn+from.;Reading+statements+before+writing+code;Clean+C%2B%2B+%7C+Clear+reasoning+%7C+Contest-ready+trade-offs;Practice.+Learn.+Upsolve.+Repeat." alt="Repository philosophy">
 
 <br>
 
@@ -163,7 +163,7 @@ Solutions are written primarily in modern **C++**, with an emphasis on standard-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=16C7C1&center=true&vCenter=true&width=780&lines=One+implementation.+Every+contest+memory+preserved.;Statements+before+shortcuts.;Good+solutions+survive+being+revisited." alt="Closing principles">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=16C7C1&center=true&vCenter=true&width=780&lines=Accepted+is+not+luck.;Every+wrong+answer+teaches+something.;One+implementation.+Every+contest+memory+preserved.;See+you+at+the+next+Accepted." alt="Closing principles">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=130&section=footer&animation=fadeIn" alt="Footer wave">
 
